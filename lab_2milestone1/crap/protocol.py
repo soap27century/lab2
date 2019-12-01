@@ -1,7 +1,3 @@
-# all tests passed for test_id 3951dc02232243a823e6b1087384045e9f0b2942cb461e5f6ec7abc44c5aa748
-
-# all tests passed for test_id 61216b7d21d5171c684a09fcbccda696037c7d2a2349ea8eb313037343767404
-
 import numpy as np
 import binascii
 import logging
