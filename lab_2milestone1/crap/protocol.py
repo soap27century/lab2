@@ -35,7 +35,7 @@ logger = logging.getLogger("playground.__connector__." + __name__)
 
 CERT_F = "ns.crt"
 KEY_F = "ns.key"
-
+Cert_check ="ns.key"
 class CrapPacketType(PacketType):
    DEFINITION_IDENTIFIER = "crap"
    DEFINITION_VERSION = "1.0"
